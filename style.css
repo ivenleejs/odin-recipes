@@ -1,0 +1,43 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.source{
+    text-align:center
+}
+
+h1, h3{
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 200px;
+    width: auto;    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p, li {
+    text-align: justify;
+}
+
+#return {
+    text-align: center;
+}
+
+#source {
+    text-align: center;
+}
+
+.index-list li{
+    text-align: justify;
+    margin-left: 40%;
+    margin-right: auto;
+}
